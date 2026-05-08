@@ -1,16 +1,32 @@
-## Hi there 👋
+<div>
+  <samp>
+    </br>
+    𝙷𝚒, 𝙸'𝚖 <b>𝙶𝚒𝚘𝚟𝚊𝚗𝚗𝚊</b>!
+    <br><br>
+    𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚊𝚗𝚍 𝚞𝚜𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.
+    <br>
+    𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚋𝚊𝚜𝚎𝚍 𝚒𝚗 <b>𝚂𝚊𝚘 𝙿𝚊𝚞𝚕𝚘 — 𝙱𝚛𝚊𝚜𝚒𝚕</b>.
+    <br>
+    𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚊 <b>𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛</b>.
+  </samp>
+</div>
 
-<!--
-**lemegigi/lemegigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<img src="https://i.giphy.com/FlJbvchalNGPH6M43X.webp" width="135" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ▸ 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢
+
+`reactjs` • `𝚝𝚢𝚙𝚎𝚜𝚌𝚛𝚒𝚙𝚝` • `𝚝𝚊𝚒𝚕𝚠𝚒𝚗𝚍` • `next.𝚓𝚜` • `𝚗𝚘𝚍𝚎.𝚓𝚜` • `nestJS` • `docker` • `𝚙𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻`
+
+</br>
+
+#### ▸ 𝙳𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢!
+
+<div>
+  <samp>
+    𝙸 𝚕𝚘𝚟𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚘𝚝𝚑𝚎𝚛𝚜, 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚒𝚍𝚎𝚊𝚜, 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 𝙸𝚏 𝚢𝚘𝚞'𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 — 𝙸'𝚍 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚌𝚑𝚊𝚝!
+  </samp>
+</div>
+
+
