@@ -13,7 +13,7 @@
 
 </br>
 
-<img src="https://i.giphy.com/FlJbvchalNGPH6M43X.webp" width="135" align="right"/>
+<img src="https://i.giphy.com/73ymNClJu3dyFugAl9.webp" width="135" align="right"/>
 
 #### ▸ 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢
 
