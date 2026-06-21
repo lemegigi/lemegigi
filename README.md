@@ -13,20 +13,20 @@
 
 </br>
 
-<img src="https://i.giphy.com/73ymNClJu3dyFugAl9.webp" width="135" align="right"/>
-
-#### ▸ 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢
+#### » 𝚆𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 𝚍𝚊𝚒𝚕𝚢
 
 `reactjs` • `𝚝𝚢𝚙𝚎𝚜𝚌𝚛𝚒𝚙𝚝` • `𝚝𝚊𝚒𝚕𝚠𝚒𝚗𝚍` • `next.𝚓𝚜` • `𝚗𝚘𝚍𝚎.𝚓𝚜` • `nestJS` • `docker` • `𝚙𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻`
 
 </br>
 
-#### ▸ 𝙳𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢!
+<img src="https://i.giphy.com/73ymNClJu3dyFugAl9.webp" width="135" align="right"/>
 
-<div>
-  <samp>
-    𝙸 𝚕𝚘𝚟𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚘𝚝𝚑𝚎𝚛𝚜, 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚒𝚍𝚎𝚊𝚜, 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜. 𝙸𝚏 𝚢𝚘𝚞'𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 — 𝙸'𝚍 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚌𝚑𝚊𝚝!
-  </samp>
-</div>
+#### » 𝚆𝚑𝚊𝚝 𝙸'm 𝚞𝚙 𝚝𝚘...
 
-
+  <samp>↪ 𝙽𝚞𝚎𝚟𝚎𝚘 - 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚋𝚊𝚗𝚔𝚒𝚗𝚐 𝚊𝚙𝚙 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖</samp>
+  </br>
+  <samp>↪ 𝙻𝚒𝚗𝚞𝚡 𝚁𝚒𝚌𝚎 - </samp>$\color{#ed8796}\text{𝚌}\color{#ee99a0}\text{𝚊}\color{#f5a97f}\text{𝚝}\color{#eed49f}\text{𝚙}\color{#a6da95}\text{𝚙}\color{#8bd5ca}\text{𝚞}\color{#7dc4e4}\text{𝚌}\color{#8aadf4}\text{𝚌}\color{#b7bdf8}\text{𝚒}\color{#c6a0f6}\text{𝚗}$<samp> 𝚊𝚍𝚍𝚒𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚛𝚎𝚊𝚕 ~ ૮ • ﻌ - ა</samp>
+  </br>
+  <samp>↪ 𝚂𝚝𝚞𝚍𝚢, 𝚜𝚝𝚞𝚍𝚢, 𝚜𝚝𝚞𝚍𝚢</samp>
+  
+</br>
